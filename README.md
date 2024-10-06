@@ -78,7 +78,7 @@ In the build directory, run using a newer version of PowerShell [https://github.
 In the `E:\jumanpp-2.0.0-rc4\build` directory, find the generated `jumanpp.sln` file and open it with Visual Studio.
 
 * **Select Build Configuration / 选择编译配置**: In the second menu bar at the top of Visual Studio, make sure the "Release" configuration is selected, not the default "Debug" configuration, to optimize performance.
-* **Build Solution / 编译解决方案**: In the first menu bar at the top, select "Build" > "Build Solution," or press Ctrl + Shift + B. Wait for the compilation process to complete. After compilation, the generated binary files will be located in the `E:\jumanpp` directory.
+* **Build Solution / 编译解决方案**: In the first menu bar at the top, select "Build" > "Build Solution," or press Ctrl + Shift + B. Wait for the compilation process to complete.
 
 
 ### Step 4: Configure Environment Variables / 步骤四：配置环境变量
